@@ -68,9 +68,9 @@
  <p align="left">
 <a href="https://youtu.be/1wNVPsZ98Mo?si=ftQ2cg82U0cz-mbC"><img align="center" src="https://telegra.ph/file/75671c3784389fa525fcd.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
-* Deploy on Railway Video ⇓
+* don't have heroku account? ᴄʀᴇᴀᴛᴇ ʜᴇʀᴏᴋᴜ ᴀᴄᴄᴏᴜɴᴛ Video ⇓
  <p align="left">
-<a href="https://youtu.be/JASTINMTEWA-vn9pl"><img align="center" src="https://telegra.ph/file/517fafc4228129ff18510.jpg" alt="DEPLOY" height="110" width="200" /></a>
+<a href="https://youtu.be/ZcvbJNg3tHU?si=YVs9uctSr_4LrmL4"><img align="center" src="https://telegra.ph/file/5a696eef7283442c96a2e.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
 * Deploy on Replit Video ⇓
  <p align="left">
