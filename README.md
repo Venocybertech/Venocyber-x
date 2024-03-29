@@ -62,7 +62,7 @@
 
 ## [`WATCH YOUTUBE VIDEOS`](youtube.com/JASTINMTEWA-vn9pl)
  
-  ##* [How To setup Github 1st step](https://youtu.be/1wNVPsZ98Mo?si=ftQ2cg82U0cz-mbC)
+  ##* [How To setup Github 1st step](https://youtu.be/19v5VCx5fDk?si=l9GzHaJg8Vedj5ld)
   
  * Deploy on Heroku Video ⇓
  <p align="left">
