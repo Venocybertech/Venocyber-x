@@ -3,7 +3,7 @@
 <u>♥️ ᴠᴇɴᴏᴄʏʙᴇʀ x ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ 𝐕𝐞𝐧𝐨𝐜𝐲𝐛𝐞𝐫 𝐀𝐝𝐦𝐢𝐧 ♥️</u>
 </p>
 <p align="center">
-<img src="https://i.ibb.co/nPYVtwV/queen-elisa-new-logo-600-600.jpg" width="300" height="300"/>
+<img src="https://telegra.ph/file/9573213e9c5d2fb54069f.jpg" width="300" height="300"/>
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=VENOCYBER+X+WHATSAPP+BOT" alt="">
