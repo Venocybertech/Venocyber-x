@@ -1,0 +1,9 @@
+message.send(`_Always Online ${match == 'on' ? 'Enabled' : 'Disabled'}_`)
+      } catch (error) {
+        await message.send(`${error}`, {
+          quoted: message.data,
+        })
+      }
+    }
+  }
+)
