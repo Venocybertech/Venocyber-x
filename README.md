@@ -123,11 +123,11 @@ npm start
 <summary>🌐 Support For Deploy </summary>
 <p>
 </details>
-THANAKS FOR USNING QUEEN ELISA 💃💖
+THANKS FOR USING ᴠᴇɴᴏᴄʏʙᴇʀ x ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ 💃💖
 
-* [🧑‍💻 Join Queen Elisa Support Group 🧑‍💻](https://t.me/kingjux)
+* [🧑‍💻 Join Venocyber Support Group 🧑‍💻](https://t.me/kingjux)
 
-* [🦄 Join Public Group 🦄](https://chat.whatsapp.com/BbIpvkRD4qP6xKckb8cpT0)
+* [🦄 Join Public Group 🦄](https://chat.whatsapp.com/HSln3blDuuuKvC8njxyCCN)
 
      
        ⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ !
