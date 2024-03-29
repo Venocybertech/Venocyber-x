@@ -140,6 +140,6 @@ THANKS FOR USING ᴠᴇɴᴏᴄʏʙᴇʀ x ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ 💃�
 <h1>💗</h1> 
 <b>Thanks For</b> -
 
- [thashi 💖]() for Voice ,[slrealtech](https://youtube.com/JASTINMTEA-vn9pl) , [darkalpha](http://github.com/Venocybertech) and [isuru]() thanks for helps 💖
+ [thashi 💖]() for Voice ,[slrealtech](https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl) , [darkalpha](http://github.com/Venocybertech) and [isuru]() thanks for helps 💖
 
  ## [ WHATSAPP GROUPS ](https://github.com/Venocybertech/groups#README.md)
