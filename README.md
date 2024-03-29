@@ -126,7 +126,7 @@ npm start
 </details>
 THANKS FOR USING ᴠᴇɴᴏᴄʏʙᴇʀ x ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ 💃💖
 
-* [🧑‍💻 Join Venocyber Support Group 🧑‍💻](https://t.me/kingjux)
+* [🧑‍💻 Join Venocyber Support Group 🧑‍💻](https://whatsapp.com/channel/0029VaZHLuR42DcfepqNuh1e)
 
 * [🦄 Join Public Group 🦄](https://chat.whatsapp.com/HSln3blDuuuKvC8njxyCCN)
 
