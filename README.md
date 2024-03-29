@@ -74,7 +74,7 @@
    
 * ☆ ᴇxᴛʀᴀ ᴛᴇᴄʜ ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴀɴᴅ ᴇɴᴊᴏʏ ☆ ᴠɪsɪᴛ ʜᴇʀᴇ ⇓
  <p align="left">
-<a href="[https://youtube.com/JASINMTEWA-vn9pl](https://youtu.be/JASTINMTEWA-vn9pl)"><img align="center" src="https://telegra.ph/file/991e14c61b17a26c99da4.jpg" alt="DEPLOY" height="110" width="200" /></a>
+<a href="[https://youtu.be/FshoHx1Vk7U?si=KXXjof6127Nw2nBK](https://youtu.be/FshoHx1Vk7U?si=KXXjof6127Nw2nBK)"><img align="center" src="https://telegra.ph/file/991e14c61b17a26c99da4.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
    
    
