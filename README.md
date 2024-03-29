@@ -70,11 +70,11 @@
    
 * don't have heroku account? ᴄʀᴇᴀᴛᴇ ʜᴇʀᴏᴋᴜ ᴀᴄᴄᴏᴜɴᴛ Video ⇓
  <p align="left">
-<a href="https://youtu.be/ZcvbJNg3tHU?si=zDml6TGO1dAmYAX8"><img align="center" src="https://telegra.ph/file/991e14c61b17a26c99da4.jpg" alt="ᴄʀᴇᴀᴛᴇ" height="110" width="200" /></a>
+<a href="https://youtu.be/ZcvbJNg3tHU?si=zDml6TGO1dAmYAX8"><img align="center" src="https://telegra.ph/file/5a696eef7283442c96a2e.jpg" alt="ᴄʀᴇᴀᴛᴇ" height="110" width="200" /></a>
    
 * ☆ ᴇxᴛʀᴀ ᴛᴇᴄʜ ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴀɴᴅ ᴇɴᴊᴏʏ ☆ ᴠɪsɪᴛ ʜᴇʀᴇ ⇓
 <p align="left">
-<a href="https://youtu.be/FshoHx1Vk7U?si=bykHPB3juze4hIrg"><img align="center" src="https://telegra.ph/file/5a696eef7283442c96a2e.jpg" alt="DEPLOY" height="110" width="200" /></a>
+<a href="https://youtu.be/FshoHx1Vk7U?si=bykHPB3juze4hIrg"><img align="center" src="https://telegra.ph/file/991e14c61b17a26c99da4.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
    
    
