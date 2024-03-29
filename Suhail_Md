@@ -1,0 +1,18 @@
+
+#    * @project_name : Venocyber-X
+#    * @author : @VenocyberAdmin
+#    * @youtube : https://youtube.com/@JASTINMTEWA-vn9pl?si=NtgcNqZPHS3Jr-05
+#    * @description : Venocyber-X ,A Multi-functional whatsapp bot md.
+#    * @version 2.0.0
+# 
+# Don't change this [ /SuhailTechInfo/ ] name!
+# Change from below link, else bot not works!
+
+ 
+
+FROM quay.io/venocybertech/venocyber-x
+RUN git clone https://github.com/Venocybertech/Venocyber-X /root/VenocyberX
+WORKDIR /root/VenocyberX
+RUN npm install
+EXPOSE 8000
+CMD ["npm","start" ] 
