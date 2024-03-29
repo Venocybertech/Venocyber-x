@@ -62,11 +62,11 @@
 
 ## [`WATCH YOUTUBE VIDEOS`](youtube.com/JASTINMTEWA-vn9pl)
  
-  ##* [How To setup Github 1st step](https://youtu.be/JASTIMTEWA-vn9pl)
+  ##* [How To setup Github 1st step](https://youtu.be/1wNVPsZ98Mo?si=ftQ2cg82U0cz-mbC)
   
  * Deploy on Heroku Video ⇓
  <p align="left">
-<a href="https://youtu.be/IIl6etHMyoA"><img align="center" src="https://telegra.ph/file/30a48f9e9879189d2ef6d.jpg" alt="DEPLOY" height="110" width="200" /></a>
+<a href="https://youtu.be/1wNVPsZ98Mo?si=ftQ2cg82U0cz-mbC"><img align="center" src="https://telegra.ph/file/75671c3784389fa525fcd.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
 * Deploy on Railway Video ⇓
  <p align="left">
