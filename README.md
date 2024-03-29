@@ -72,9 +72,9 @@
  <p align="left">
 <a href="https://youtu.be/ZcvbJNg3tHU?si=YVs9uctSr_4LrmL4"><img align="center" src="https://telegra.ph/file/5a696eef7283442c96a2e.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
-* Deploy on Replit Video ⇓
+* ☆ ᴇxᴛʀᴀ ᴛᴇᴄʜ ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴀɴᴅ ᴇɴᴊᴏʏ ☆ ᴠɪsɪᴛ ʜᴇʀᴇ ⇓
  <p align="left">
-<a href="[https://youtube.com/JASINMTEWA-vn9pl](https://youtu.be/JASTINMTEWA-vn9pl)"><img align="center" src="https://telegra.ph/file/909f2519b1dc65a338b29.jpg" alt="DEPLOY" height="110" width="200" /></a>
+<a href="[https://youtube.com/JASINMTEWA-vn9pl](https://youtu.be/JASTINMTEWA-vn9pl)"><img align="center" src="https://telegra.ph/file/991e14c61b17a26c99da4.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
    
    
