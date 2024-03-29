@@ -88,7 +88,7 @@
 3. Uplode creds.json file to sessions folder
 4. Make acount on your host
 5. Connect Your Repository to your web host site
-6. [Watch Videos](http://youtube.com/JASTINMTEWA-vn9pl)
+6. [Watch Videos](https://youtube.com/@JASTINMTEWA-vn9pl?si=lgP8rtM6d2_7baLm)
 # 
 # 
 ### [ DEPLOY ON TERMUX ]
