@@ -149,6 +149,6 @@ THANKS FOR USING ᴠᴇɴᴏᴄʏʙᴇʀ x ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ 💃�
 <h1>💗</h1> 
 <b>Thanks For</b> -
 
- [venocyber 💖](https://wa.me/message/MSSH2UWWOQBDL1) for Voice ,[cecilia](https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl) , [he.is.me](http://github.com/Venocybertech) , [wasixd]() and [officialchuimsela](https://wa.me/+260 769355624) thanks for helps 💖
+ [venocyber 💖](https://wa.me/message/MSSH2UWWOQBDL1) for Voice ,[cecilia](https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl) , [he.is.me](http://github.com/Venocybertech) , [wasixd]() and [officialchuimsela](https://wa.me/+260769355624) thanks for helps 💖
 
  ## [ WHATSAPP GROUPS ](https://github.com/Venocybertech/groups#README.md)
